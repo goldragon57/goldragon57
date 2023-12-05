@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#069">Overview</h2>
+<h2 align="center" style="color:#069"><a>Overview</a></h2>
 <h1>Consent contract</h1>
 <h4>
   Store consent info into blockchain. 
