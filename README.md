@@ -13,3 +13,5 @@
 </h4>
 <h4>This contract provides for sharing patients' medical records with doctors or other provider. </h4>
 <img src="https://github.com/goldragon57/goldragon57/assets/125270058/530565a2-4fd9-4636-a86e-982f96d5b310"></img>
+<br>
+patients send necessary information to our backend(fromUserId, toUserId, startDate, endDate)
